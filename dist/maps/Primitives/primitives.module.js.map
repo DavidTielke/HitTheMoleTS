@@ -1,0 +1,1 @@
+{"version":3,"sources":["Primitives/primitives.module.ts"],"names":[],"mappings":";;;IAAQ,wBAAA,KAAK,CAAA;IACL,gCAAA,SAAS,CAAA","file":"../../scripts/Primitives/primitives.module.js","sourcesContent":["export {Point} from \"./Point\";\r\nexport {Rectangle} from \"./Rectangle\";"]}

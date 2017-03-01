@@ -1,0 +1,1 @@
+{"version":3,"sources":["Objects/Mole.ts"],"names":[],"mappings":";;IAEA;QAAA;QAEA,CAAC;QAAD,WAAC;IAAD,CAFA,AAEC,IAAA;IAFY,YAAI,OAEhB,CAAA","file":"../../scripts/Objects/Mole.js","sourcesContent":["import {GameObject} from \"./GameObject\";\r\n\r\nexport class Mole{\r\n    \r\n}"]}
